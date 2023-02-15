@@ -1,5 +1,6 @@
 # OpenCV_Algorithms
 Author: Ali Hassan Sharif
+
 Purpose: To implement knowledge gained from computer vision course at Carleton University. 
 
 Algorithms you will find in this project:
