@@ -1,0 +1,10 @@
+Author: Ali Hassan Sharif
+Email: Alisharif@cmail.carleton.ca
+
+How to use the edge detection and sticks filter algorithms:
+
+First, install OpenCV library for Python on your system.
+
+Change the <image = cv.imread("")> lines of code to the path of the image you would like to use edge detection/sticks filter on.
+
+This line of code is found on line 172 on EdgeDetection.py and line 95 on SticksFilter.py
