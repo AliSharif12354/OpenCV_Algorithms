@@ -94,6 +94,3 @@ def sticksFilter(img):
 #Get the image we want to run our sticks filter on
 image = cv.imread("cat2.jpg")
 sticksImage = sticksFilter(image)
-
-cv.imshow("Original", image)
-cv.imshow("Sticks filtered", sticksImage)
