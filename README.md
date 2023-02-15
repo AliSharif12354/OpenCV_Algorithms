@@ -7,4 +7,5 @@ Algorithms you will find in this project:
 Edge Detection using non maximum suppression.
 Sticks filtering to enhance strong features of an image and cut out fragile features.
 
-Python algorithms which manipulate pictures by applying computer vision theory.
+I hope you will learn from my code or be impressed by my skills :).
+
