@@ -1,7 +1,7 @@
 # OpenCV_Algorithms
 Author: Ali Hassan Sharif
 
-Purpose: To implement knowledge gained from computer vision course at Carleton University. 
+Purpose: To implement knowledge gained from computer vision course. 
 
 Algorithms you will find in this project:
 Edge Detection using non maximum suppression.
